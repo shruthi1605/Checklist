@@ -1,0 +1,72 @@
+/* Styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Roboto&family=Roboto+Slab&display=swap');
+
+.header{
+    cursor: pointer;
+    border: solid 1px #f2f2f2;
+    padding: 15px;
+    background-color: #0089CC;
+    color: #FFF;
+    font-family: verdana;
+  }
+  
+  .content{
+    cursor: pointer;
+    border-left: solid 1px #f2f2f2;
+    border-right: solid 1px #f2f2f2;
+    border-bottom: solid 1px #f2f2f2;
+    border-radius: 0 0 5px 5px;
+    padding: 15px;
+    font-family: verdana;
+    font-size: 14px;
+  }
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 20px;
+    text-decoration: none;
+    font-size: 22px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .innerli{
+    font-size: 18px!important;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .active {
+    color: #f1f1f1!important;
+    background: #0089CC;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  

@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "Name": "Kitchen Utensil",
+      "Description": "Checklist for utensil cleansing",
+      "Created": "Robin",
+      "CreationDate": "21-May-2019 09:43:33 IST",
+      "UpdatedDate": "25-May-2019 17:09:03 IST",
+      "id": "1"
+    },
+    {
+      "Name": "Kitchen",
+      "Description": "Checklist for appliance handling",
+      "Created": "Robin",
+      "CreationDate": "21-May-2019 09:43:33 IST",
+      "UpdatedDate": "25-May-2019 17:09:03 IST",
+      "id": "2"
+    }
+  ]
+}

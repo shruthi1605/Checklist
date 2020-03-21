@@ -1,0 +1,60 @@
+{
+    "items":[
+    {
+        "Name":"Kitchen Utensil",
+        "Description":"Checklist for utensil cleansing",
+        "Created":"Robin",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"1"
+    },
+    {
+        "Name":"Kitchen",
+        "Description":"Checklist for appliance handling",
+        "Created":"Robin",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"2"
+    },
+    {
+        "Name":"Grocery",
+        "Description":"Checklist for grocery shopping",
+        "Created":"Tom",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"3"
+    },
+    {
+        "Name":"Cleaning",
+        "Description":"Checklist for cleaning",
+        "Created":"Oswald",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"4"
+    },
+    {
+        "Name":"Reading",
+        "Description":"Checklist for reading",
+        "Created":"Moose",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"4"
+    },
+    {
+        "Name":"Organize",
+        "Description":"Checklist for organizing event",
+        "Created":"Cali",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"4"
+    },
+    {
+        "Name":"Decor",
+        "Description":"Checklist for decor",
+        "Created":"Oswald",
+        "CreationDate":"21-05-2019 09:43:33",
+        "UpdatedDate":"25-05-2019 17:09:03",
+        "id":"4"
+    }
+]
+}

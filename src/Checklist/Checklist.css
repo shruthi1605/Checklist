@@ -1,0 +1,24 @@
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .inn {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .inn  { left:  0px;bottom: 4px;}
+
+.left-addon input  { padding-left:  32px; }
+
+.btns{
+  padding: 5px 15px;
+}
+
+.pagination{
+  padding-left: 30%;
+  text-align: center;
+}
